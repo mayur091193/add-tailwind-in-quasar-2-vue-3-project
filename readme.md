@@ -5,7 +5,7 @@
 (Image Source - https://stackdiary.com/vue-ui-components-kits/)
 
 ---
-[Check out blog](https://medium.com/@mayur091193/add-tailwind-css-in-the-quasar-2-project-simple-steps-339c545dafe0)
+[Check out Blog](https://medium.com/@mayur091193/add-tailwind-css-in-the-quasar-2-project-simple-steps-339c545dafe0)
 
 Quasar Framework is a great UI framework that provides lots of ready-to-use components which are well tested on the web, iPad, mobile, and all devices.
 
